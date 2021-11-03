@@ -1,0 +1,5 @@
+*.pdf
+!Homework/**/*.pdf
+!Projects/**/*.pdf
+LectureNotes
+LectureVideos
